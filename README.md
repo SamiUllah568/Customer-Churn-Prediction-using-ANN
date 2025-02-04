@@ -1,6 +1,11 @@
 # Customer Churn Prediction
 
-## Author : SamiUllah568
+## Contact
+**Sami Ullah**  
+[GitHub Profile](https://github.com/SamiUllah568)  
+[Email](sk2579784@gmail.com)
+
+
 ## Project Aim
 
 This project focuses on predicting customer churn (whether a customer will leave or remain with the company) based on various customer features. Using machine learning algorithms, we can identify patterns in customer behavior that are indicative of a potential churn, enabling the company to take proactive actions to retain valuable customers.
